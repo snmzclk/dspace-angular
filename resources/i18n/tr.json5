@@ -16,7 +16,7 @@
   
   // "admin.registries.bitstream-formats.create.failure.content": "An error occurred while creating the new bitstream format.",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.create.failure.content": "An error occurred while creating the new bitstream format.",
+  "admin.registries.bitstream-formats.create.failure.content": "Yeni veri akışı oluşturulurken bir hata oluştu.",
   
   // "admin.registries.bitstream-formats.create.failure.head": "Failure",
   // TODO New key - Add a translation
